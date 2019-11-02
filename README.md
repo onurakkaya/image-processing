@@ -1,2 +1,3 @@
 # image-processing
-Basic Image Processing Functions
+Image Processing with Python OpenCv
+
